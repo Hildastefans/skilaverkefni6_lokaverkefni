@@ -1,0 +1,248 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+
+.container{
+    height: 600px;
+    width: 500px;
+    margin-left: 500px;
+    border-radius: 50px;
+    color: #011b1b;
+    font-family: lato, sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-color: rgb(234, 237, 241);
+
+}
+
+.stigaspjal{
+    height: 650px;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+    border-radius: 50px;
+    color: white;
+    font-family: lato, sans-serif;
+    /*background-color: rgb(234, 237, 241);*/
+    padding-left: 30px
+
+}
+
+.span{
+    width: 40%;
+    margin-left: 500px;  
+
+}
+
+#loka_texti{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.stigaspjal h1{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+
+}
+
+.button{
+    margin-left: 25px;
+    padding: 10px;
+    color: white;
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+    height: 35px;
+    border-radius: 35px;
+    background-color: rgb(51, 51, 51);
+}
+
+
+
+button#tryAgain.button {
+    
+    color: black;
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+    height: 35px;
+    border-radius: 35px;
+    background-color: yellow;
+
+}
+
+button#tryAgain.button2 {
+    
+    color: black;
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+    height: 35px;
+    border-radius: 35px;
+    margin-left: 740px;
+    background-color: yellow;
+
+}
+
+button#tryAgain.button1 {
+    
+    color: black;
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+    height: 35px;
+    border-radius: 35px;
+    margin-left: 740px;
+    background-color: yellow;
+
+}
+
+.last_page img{
+    width: 45%
+
+}
+
+
+.question_container span img{
+    width: 40%;
+    margin-left: 500px;
+    height: 400px;
+
+
+}    
+
+.question_container span{
+    font-size: 38px;
+    color: yellow;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: lato;
+}
+
+.stigaspjal img{
+    width: 100%;
+}
+
+.question_container h1{
+    color: white;
+    font-family: lato, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    text-transform: uppercase;
+
+}
+
+.question_container h3{
+    margin-left: 140px;
+    font-size: 38px;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: lato;
+}
+
+.radioInput{
+    color: pink;
+    margin-left: 1px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+.card img{
+    width: 100%;
+    height: 240px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.50);
+}
+
+form{
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+
+.card form{
+    color: black;
+    padding-left: 33px;
+    
+}
+
+.card button:hover {
+    background-color: rgb(55, 235, 55);
+}
+
+h2{
+    margin-left: 350px;
+    font-size: 38px;
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: lato;
+
+}
+.stigaspjal h3{
+    margin-left: 300px;
+    font-size: 38px;
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: lato;
+    
+}
+.stigaspjal span{
+
+    font-size: 38px;
+    color: yellow;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: lato;
+}
+
+
+.card h1{
+    padding-left: 27px;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.9px;
+    font-size: 26px;
+    color: black;
+    
+}
+.card p{
+
+    padding-left: 15px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 8px;
+    color: black;
+    padding-right: 15px
+}
+
+
+
+
+.buttonLitur {
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    border-radius: 35px;
+    background-color: rgb(51, 51, 51);
+    color: white;
+   
+
+}
